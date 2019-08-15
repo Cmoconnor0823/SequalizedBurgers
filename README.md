@@ -1,1 +1,1 @@
-# SequalizedBurgers
+# burgers
